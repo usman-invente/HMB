@@ -1,0 +1,24 @@
+.invalid-feedback {
+    color: red;
+}
+
+.navbar .dropdown-menu {
+    background: white;
+}
+
+.navbar-nav>li>.dropdown-menu a {
+    color: black;
+    margin: 10px;
+}
+
+.hide {
+    display: none
+}
+
+label {
+    font-weight: 700;
+}
+
+.createcourse {
+    margin-top: 50px;
+}
